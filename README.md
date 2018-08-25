@@ -1,5 +1,5 @@
 # ColorDetectionComputerVisionGUI
-## @author: Leonardo Leon Vera
+## Author: Leonardo Leon Vera
 ## Date: 2018/08/20
 
 ### Abstract
